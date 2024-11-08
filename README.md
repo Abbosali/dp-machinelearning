@@ -1,8 +1,8 @@
-# 🤖 Machine learning app
+# 🤖 Machine Learning App
 
-This is machine learning app
+This is machine learning app.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dp-machinelearning.streamlit.app/)
 
 ## GitHub Codespaces
 
